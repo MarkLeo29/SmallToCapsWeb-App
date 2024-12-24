@@ -24,6 +24,14 @@ input[type="text"] {
     border-radius: 4px;
 }
 
+select {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 button {
     padding: 10px 20px;
     border: none;
